@@ -140,18 +140,10 @@ graph LR
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gatoOverflow&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🚀 Featured Projects
+## 🐍 Snake Animation
 
 <div align="center">
-  
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **E-Commerce Platform** | Laravel, React, AWS | Scalable marketplace with 100k+ users |
-| **Real-time Analytics Dashboard** | Spring Boot, Angular, WebSocket | Live data visualization system |
-| **Mobile Banking App** | Flutter, Node.js, PostgreSQL | Secure financial transaction platform |
-| **DevOps Automation Suite** | Python, Docker, Kubernetes | CI/CD pipeline automation tools |
-| **Microservices Architecture** | NestJS, RabbitMQ, Redis | Event-driven distributed system |
-
+  <img src="https://raw.githubusercontent.com/gatoOverflow/gatoOverflow/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## 📚 Recent Blog Posts
@@ -166,7 +158,7 @@ graph LR
 ## 🤝 Connect With Me
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gatooverflow)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gatooverflow)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gatooverflow)
@@ -195,14 +187,14 @@ graph LR
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gatooverflow&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  
+
   <br/>
-  
+
   <i>⚡ "First, solve the problem. Then, write the code." - John Johnson</i>
-  
+
   <br/>
-  
+
   **💼 Open for interesting projects and collaborations!**
-  
+
   ⭐️ From [gatoOverflow](https://github.com/gatooverflow) with ❤️
 </div>
