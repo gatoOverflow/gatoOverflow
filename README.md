@@ -174,6 +174,14 @@ graph LR
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
+## 🎧 Now Playing
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31k5h23kjn4r3ilnppvspklfjzne">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k5h23kjn4r3ilnppvspklfjzne&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=true&bar_color=58a6ff" alt="Spotify Now Playing" />
+  </a>
+</div>
+
 ## 🎮 When I'm Not Coding
 
 - 🎯 Contributing to Open Source
