@@ -1,7 +1,7 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there, I'm gatoOverflow
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=gatoOverflow&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Problem%20Solver&descAlignY=52&descSize=18" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;DevOps+Enthusiast;Cloud+Architecture+Designer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Architecting+cloud+infrastructure;Automating+everything+with+DevOps;Always+learning+something+new" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -188,13 +188,14 @@ graph LR
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gatooverflow&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-  <br/>
+  <br/><br/>
 
   <i>⚡ "First, solve the problem. Then, write the code." - John Johnson</i>
 
-  <br/>
+  <br/><br/>
 
   **💼 Open for interesting projects and collaborations!**
 
-  ⭐️ From [gatoOverflow](https://github.com/gatooverflow) with ❤️
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
